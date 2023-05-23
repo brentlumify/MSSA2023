@@ -236,24 +236,4 @@ Running  WinDefend          Microsoft Defender Antivirus Service
 Running  WinHttpAutoProxyS… WinHTTP Web Proxy Auto-Discovery Serv…
 Running  Winmgmt            Windows Management Instrumentation
 Stopped  WinRM              Windows Remote Management (WS-Managem…
-Stopped  wisvc              Windows Insider Service
-Stopped  WlanSvc            WLAN AutoConfig
-Stopped  wlidsvc            Microsoft Account Sign-in Assistant
-Stopped  wlpasvc            Local Profile Assistant Service
-Stopped  WManSvc            Windows Management Service
-Stopped  wmiApSrv           WMI Performance Adapter
-Stopped  WMPNetworkSvc      Windows Media Player Network Sharing …
-Stopped  workfolderssvc     Work Folders
-Stopped  WpcMonSvc          Parental Controls
-Stopped  WPDBusEnum         Portable Device Enumerator Service
-Running  WpnService         Windows Push Notifications System Ser…
-Running  WpnUserService_1a… Windows Push Notifications User Servi…
-Running  wscsvc             Security Center
-Running  WSearch            Windows Search
-Stopped  wuauserv           Windows Update
-Stopped  WwanSvc            WWAN AutoConfig
-Stopped  XblAuthManager     Xbox Live Auth Manager
-Stopped  XblGameSave        Xbox Live Game Save
-Stopped  XboxGipSvc         Xbox Accessory Management Service
-Stopped  XboxNetApiSvc      Xbox Live Networking Service
 
