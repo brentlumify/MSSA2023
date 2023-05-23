@@ -1,21 +1,6 @@
 
 Status   Name               DisplayName
 ------   ----               -----------
-Stopped  AarSvc_1a9e359     Agent Activation Runtime_1a9e359
-Stopped  AJRouter           AllJoyn Router Service
-Stopped  ALG                Application Layer Gateway Service
-Stopped  AppIDSvc           Application Identity
-Running  Appinfo            Application Information
-Stopped  AppMgmt            Application Management
-Stopped  AppReadiness       App Readiness
-Stopped  AppVClient         Microsoft App-V Client
-Running  AppXSvc            AppX Deployment Service (AppXSVC)
-Stopped  AssignedAccessMan… AssignedAccessManager Service
-Running  AudioEndpointBuil… Windows Audio Endpoint Builder
-Running  Audiosrv           Windows Audio
-Stopped  autotimesvc        Cellular Time
-Stopped  AxInstSV           ActiveX Installer (AxInstSV)
-Stopped  BcastDVRUserServi… GameDVR and Broadcast User Service_1a…
 Stopped  BDESVC             BitLocker Drive Encryption Service
 Running  BFE                Base Filtering Engine
 Stopped  BITS               Background Intelligent Transfer Servi…
